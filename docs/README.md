@@ -34,7 +34,7 @@ The library is available in the release section [release section](https://github
 #### Additional platform support without pre-built binaries
 The library can be built for Xamarin.iOS (formerly MonoTouch). The project file and solution are available in the source code repository.
 
-A special version for the [.Net Micro Framework](http://www.microsoft.com/netmf/) can be found in a separate branch in the source code repository.
+A special version for the [.Net Micro Framework](http://netmf.github.io/) can be found in a separate branch in the source code repository.
 
 #### The following demo clients are available:
 
